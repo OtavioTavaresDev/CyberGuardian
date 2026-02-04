@@ -1,0 +1,10 @@
+2024-01-15 10:23:45 INFO User 'admin' logged in successfully
+2024-01-15 10:24:12 WARNING Failed login attempt for user 'root'
+2024-01-15 10:25:03 ERROR Database connection timeout
+2024-01-15 10:26:45 INFO Backup completed successfully
+2024-01-15 10:27:30 WARNING Suspicious activity detected from IP 192.168.1.100
+2024-01-15 10:28:15 ERROR File not found: /var/www/config.php
+2024-01-15 10:29:00 INFO User 'john' changed password
+2024-01-15 10:30:45 CRITICAL Malware injection attempt detected
+2024-01-15 10:31:20 WARNING Multiple failed login attempts from IP 10.0.0.5
+2024-01-15 10:32:10 INFO System update started
